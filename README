@@ -6,42 +6,37 @@ CONTENTS OF THIS FILE
 * Introduction
 * Licence
 
+ ------
+| NAME |
+ ------
+    G_View (game viewer)
+ -------
+|VERSION|
+ -------
+    1.0a
+ ------
+|AUTHOR|
+ ------
+    Cathal McNally (mcnallycathal@yahoo.ie)
+ ------------
+|INTRODUCTION|
+ ------------
+   G_View
+   Basic Image and Xml parsing application for viewing Game Cover images and some basic game info 
+   You must manually create the xml files and download from the web the game covers
+   G_view(Game viewer) simply views the files
 
-NAME
-----
+   Makes use of own extensions
+   .gvi = .jpg
+   .gvx = .xml
+   simply renamed to prevent clashes with other xml and image files
 
-G_View (game viewer)
+   There is a SampleUsage Zip included that you can use to see how the program works
+   the Game viewer HELP.docx file has information on the program, how it works and a tutorial on how to use G_View
 
-VERSION
--------
- 
-1.0a
+ -------
+|LICENCE|
+ -------
+   Released under the The MIT License.
 
-AUTHOR
-------
-
-Cathal McNally (mcnallycathal@yahoo.ie)
-
-INTRODUCTION
-------------
-
-G_View
-Basic Image and Xml parsing application for viewing Game Cover images and some basic game info 
-You must manually create the xml files and download from the web the game covers
-G_view(Game viewer) simply views the files
-
-Makes use of own extensions
-.gvi = .jpg
-.gvx = .xml
-simply renamed to prevent clashes with other xml and image files
-
-There is a SampleUsage Zip included that you can use to see how the program works
-the Game viewer HELP.docx file has information on the program, how it works and a tutorial on how to use G_View
-
-
-LICENCE
--------
-
-Released under the The MIT License.
-
-http://www.opensource.org/licenses/mit-license.php
+   http://www.opensource.org/licenses/mit-license.php
